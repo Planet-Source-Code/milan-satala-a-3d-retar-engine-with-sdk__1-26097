@@ -1,0 +1,9 @@
+frmEditor = 44, 44, 568, 492, Z, 66, 66, 590, 514, C
+modConst = 44, 44, 568, 492, 
+modEditor = 22, 22, 546, 470, 
+modRetard = 154, 154, 678, 602, 
+modRetard3D = 154, 154, 789, 559, 
+modRetardEntity = 220, 220, 744, 668, 
+modCompile = 66, 66, 590, 514, 
+modRetardInput = 0, 0, 0, 0, C
+clsRetardMesh = 176, 176, 700, 624, 
