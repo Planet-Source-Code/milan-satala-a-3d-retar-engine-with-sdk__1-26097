@@ -1,0 +1,8 @@
+modConst = 198, 199, 722, 646, 
+modRetard = 176, 176, 700, 624, Z
+modRetard3D = 154, 154, 678, 602, 
+modRetardEntity = 0, 0, 635, 405, 
+modRetardInput = 154, 154, 678, 602, 
+modGame = 220, 220, 744, 668, 
+frmGame = 132, 132, 656, 580, , 154, 154, 678, 602, C
+clsRetardMesh = 176, 176, 700, 624, 
